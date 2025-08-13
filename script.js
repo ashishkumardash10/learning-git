@@ -5,3 +5,7 @@ function say()
     
 }
 say()
+const obj ={
+    name:'sachin',
+    age:20
+}
