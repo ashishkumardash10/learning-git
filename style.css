@@ -1,3 +1,6 @@
 *{
     padding: auto;
 }
+body{
+    box-sizing: border-box;
+}
